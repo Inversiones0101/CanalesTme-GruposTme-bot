@@ -1,0 +1,47 @@
+name: Monitor de Canales Financieros
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+    
+    - name: 🐍 Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        # SIN cache para evitar errores
+    
+    - name: 📦 Dependencias
+      run: pip install --no-cache-dir requests
+    
+    - name: 🤖 Ejecutar Bot
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        TZ: 'America/Argentina/Buenos_Aires'
+      run: python bot.py
+    
+    - name: 💾 Guardar historial
+      run: |
+        git config --local user.name "GitHub Actions Bot"
+        git config --local user.email "bot@github-actions.com"
+        
+        if [ -f "ultimo_id_canales.json" ]; then
+          git add ultimo_id_canales.json
+          git diff --staged --quiet || git commit -m "📝 Actualizar historial [skip ci]"
+          git push
+        fi
