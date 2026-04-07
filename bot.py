@@ -52,8 +52,8 @@ CONFIG_CANALES = {
     },
     "@canalareadeinversores": {
         "nombre": "🎯 Área de Inversores",
-        "keywords": ["lo que hay que saber esta mañana", "Fuente BCR Mercados",
-                     "La Secretaría de Finanzas anuncia que en la licitación del día de hoy"],
+        "keywords": ["lo que hay que saber esta mañana", "saber esta mañana", "Fuente BCR Mercados",
+                     "La Secretaría de Finanzas anuncia que en la licitación del día de hoy", "licitación del día de hoy"],
         "emoji": "🌅",
         "imagenes_publicas": True
     },
