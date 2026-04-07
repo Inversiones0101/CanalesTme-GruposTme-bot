@@ -70,7 +70,7 @@ CONFIG_CANALES = {
     },
     "@iolinvertironline": {
         "nombre": "🏦 IOL",
-        "keywords": ["Nueva licitación", "Nueva licitación de Letras", "Nueva licitación de Letras y Bonos"],
+        "keywords": ["Nueva licitación", "Nueva licitación de Letras", "Nueva licitación de Letras y Bonos", "Portafolio"],
         "emoji": "💰",
         "imagenes_publicas": True
     },
