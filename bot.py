@@ -63,7 +63,7 @@ CONFIG_CANALES = {
         "keywords": ["la city"],
         "emoji": "🏦",
         "imagenes_publicas": True
-    }
+    },
     "@canalareadeinversores": {
         "nombre": "🎯 Área de Inversores",
         "keywords": ["lo que hay que saber esta mañana", "saber esta mañana", "Fuente BCR Mercados",
