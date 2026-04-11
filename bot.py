@@ -24,6 +24,8 @@ TIMEOUT_REQUEST = 10
 CANALES_IMAGENES_PUBLICAS = [
     "@ravabursatil",
     "@canalareadeinversores",
+    "@SoloMERVAL",
+    "@ambitoArg",
     "@gruposbs",
     "@iolinvertironline",
     "@BalanzCapital",
@@ -50,6 +52,18 @@ CONFIG_CANALES = {
         "emoji": "📰",
         "imagenes_publicas": True
     },
+    "@SoloMERVAL": {
+        "nombre": "📉 Gráficos Merval",
+        "keywords": ["grafico", "imv ccl"],
+        "emoji": "📊",
+        "imagenes_publicas": True
+    },
+    "@ambitoArg": {
+        "nombre": "🅰️ Ámbito",
+        "keywords": ["la city"],
+        "emoji": "🏦",
+        "imagenes_publicas": True
+    }
     "@canalareadeinversores": {
         "nombre": "🎯 Área de Inversores",
         "keywords": ["lo que hay que saber esta mañana", "saber esta mañana", "Fuente BCR Mercados",
