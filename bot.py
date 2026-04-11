@@ -24,7 +24,6 @@ TIMEOUT_REQUEST = 10
 CANALES_IMAGENES_PUBLICAS = [
     "@ravabursatil",
     "@canalareadeinversores",
-    "@SoloMERVAL",
     "@ambitoArg",
     "@gruposbs",
     "@iolinvertironline",
@@ -50,12 +49,6 @@ CONFIG_CANALES = {
         "nombre": "☕ Grupo SBS",
         "keywords": ["Buenos días", "Mercado", "SBSQuickNote", "Resumen de la rueda"],
         "emoji": "📰",
-        "imagenes_publicas": True
-    },
-    "@SoloMERVAL": {
-        "nombre": "📉 Gráficos Merval",
-        "keywords": ["grafico", "imv ccl"],
-        "emoji": "📊",
         "imagenes_publicas": True
     },
     "@ambitoArg": {
