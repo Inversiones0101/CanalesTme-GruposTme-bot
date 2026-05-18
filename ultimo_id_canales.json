@@ -71,7 +71,6 @@
   "7d7b42d8fe15b070"
  ],
  "@marketbostonam": [
-  "3b0c6ca1db04b249",
   "f1bf93bde7c58ceb",
   "97f677e7c56b49ad",
   "d972c8ef0fbdae95",
@@ -100,7 +99,8 @@
   "61f4d94c3d44104e",
   "5c1a32e20e1131ce",
   "8d3da23aafa24161",
-  "b326d45ef87eba76"
+  "b326d45ef87eba76",
+  "258c7039a56fb843"
  ],
  "@canalareadeinversores": [
   "2da0494dcd9af9d8",
@@ -132,9 +132,6 @@
   "42205d47b6e0b682"
  ],
  "@SoloBONOS": [
-  "43cdf5a6406fc388",
-  "f2b1957aeed8129c",
-  "41e449244e393920",
   "c6a4175ab8960079",
   "3a3ade5a08b81883",
   "3251e30cbd908736",
@@ -161,7 +158,10 @@
   "e253f83ad7f16942",
   "4ed28a83eeb348fd",
   "50845a53183e8ed1",
-  "d89e2626fa0176f7"
+  "d89e2626fa0176f7",
+  "5567a77cea1d4ce0",
+  "5b255199fffe21e0",
+  "7da10d21ec51925b"
  ],
  "@PortfolioPersonalInversiones": [
   "49f7ce919ea70ab0",
