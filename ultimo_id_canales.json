@@ -135,7 +135,6 @@
   "c603ddcb867cb300"
  ],
  "@SoloBONOS": [
-  "27ad3f7a66ddc714",
   "1c9f25ff63b6f4d2",
   "22ae6f8f5bb10145",
   "4b252f69d364ec11",
@@ -164,7 +163,8 @@
   "2610a5d3a733fc22",
   "6e031033c72b5ac8",
   "4d8e4c108c6b11fd",
-  "fd27974b011fef05"
+  "fd27974b011fef05",
+  "7c1212ed40f09636"
  ],
  "@PortfolioPersonalInversiones": [
   "5115c3d6cd608f03",
@@ -226,6 +226,7 @@
   "f3d70585d2bc6071",
   "e24f368d7e5fba1a",
   "ab8f0135bc6bbd78",
-  "c2778d258b74463a"
+  "c2778d258b74463a",
+  "a534de9d95ce7217"
  ]
 }
