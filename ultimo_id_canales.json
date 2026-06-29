@@ -76,7 +76,6 @@
   "cc7289b200ca92e4"
  ],
  "@marketbostonam": [
-  "cf4bd69a6df787b6",
   "c054a6e80b039b89",
   "86d313d78e37ea38",
   "e3ea5bbfdcf0d29a",
@@ -105,7 +104,8 @@
   "711ad3ac0e53eaee",
   "c4b0300b7865738b",
   "407c063796628c24",
-  "01db7f9c25c09ab2"
+  "01db7f9c25c09ab2",
+  "105893c5c8f21bf5"
  ],
  "@canalareadeinversores": [
   "3d05b3f2cf7069b1",
@@ -140,9 +140,6 @@
   "c4cff63e333162f0"
  ],
  "@SoloBONOS": [
-  "221b8504338712a7",
-  "a23a7b6e9b0ec7a7",
-  "459fc8bd9dea5bbc",
   "08ed461fa13aa6dd",
   "e12e5e762907b0d7",
   "7d243e96d5d62ebd",
@@ -169,7 +166,10 @@
   "797cf09886f2348e",
   "9a6951f5e4403b06",
   "197ca73a0c95c49d",
-  "05b006d7733792bc"
+  "05b006d7733792bc",
+  "f40d0cb07e112a7e",
+  "4ef2ed0cdbfd3b74",
+  "26b23234e1f58e89"
  ],
  "@PortfolioPersonalInversiones": [
   "617f46a89ba23c22",
@@ -212,7 +212,8 @@
   "861b43ee54c4b4c7",
   "9c10e1f4fe9c6383",
   "d09b7cebf44573c0",
-  "f39f439f66d44e69"
+  "f39f439f66d44e69",
+  "b4ae833aab62dd78"
  ],
  "@SoloMERVAL": [
   "71f073e14dba27ee",
