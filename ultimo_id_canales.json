@@ -1,7 +1,5 @@
 {
  "@gruposbs": [
-  "f948c559dc865863",
-  "06bdecd381d7c75a",
   "647e821eb9a7eea2",
   "a6bec6e919a35743",
   "6d4ea3a1ca03b26d",
@@ -29,7 +27,9 @@
   "8120d78dec9058d7",
   "ac2af228f8ca44ac",
   "e65f80d375570aea",
-  "62d7257c8ca58c93"
+  "62d7257c8ca58c93",
+  "218622f55cdc261f",
+  "2560936612411f6f"
  ],
  "@ravabursatil": [
   "19d2479f5ae14937",
@@ -79,7 +79,6 @@
   "e1170a33bb123334"
  ],
  "@marketbostonam": [
-  "4b84a8e7ed63eb59",
   "d09d8d309654624d",
   "260a546880f49930",
   "eb2082e47a27ce8f",
@@ -108,10 +107,10 @@
   "4d2f48dbb2f1314f",
   "7bed3759775002d6",
   "8eb2ecb6dfd81c5a",
-  "8719e226fd51b179"
+  "8719e226fd51b179",
+  "f92fa9c39dde299d"
  ],
  "@canalareadeinversores": [
-  "b051600b5e9b39b9",
   "d76ce924eb904e00",
   "836c8f34b8f36db4",
   "d449fc6561a300d4",
@@ -140,7 +139,8 @@
   "e2a154c7bfdc050d",
   "92a52daf0a0e3f2d",
   "5eb5ce680762fecb",
-  "936c39c4545001f2"
+  "936c39c4545001f2",
+  "9e6df4624eb6cd44"
  ],
  "@SoloBONOS": [
   "197ca73a0c95c49d",
@@ -175,7 +175,6 @@
   "03dcc4a29d91f7fa"
  ],
  "@PortfolioPersonalInversiones": [
-  "6affe229fc06b6e5",
   "6c10c6501ad9d689",
   "2fa7f1033e378775",
   "50c669ff41984702",
@@ -204,7 +203,8 @@
   "d7a8de8275b086b0",
   "3b690760b95bf7ef",
   "7a05d8fe5a94583f",
-  "dd6a522f7a7e2f79"
+  "dd6a522f7a7e2f79",
+  "b8a73673ca115cf5"
  ],
  "@iolinvertironline": [
   "bc3183d6be9e39bd",
