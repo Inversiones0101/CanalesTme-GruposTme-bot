@@ -144,8 +144,6 @@
   "382d931765654b4a"
  ],
  "@SoloBONOS": [
-  "03dcc4a29d91f7fa",
-  "96d4a8275ced9256",
   "0b79c30086f305bd",
   "517d5280e26a33c3",
   "9a2cf31f6f5a6cf4",
@@ -173,7 +171,9 @@
   "790bbf8fb655bab3",
   "ba3cd6522a1d0180",
   "8825ee14f6e23046",
-  "7b02f93eff44d559"
+  "7b02f93eff44d559",
+  "9d1118ccf4cd2699",
+  "51082677b9422d2a"
  ],
  "@PortfolioPersonalInversiones": [
   "857a3098721c0b38",
@@ -220,7 +220,8 @@
   "b4ae833aab62dd78",
   "252812db1edb0047",
   "07e9a5d84473c3ab",
-  "250e4876f24c5f97"
+  "250e4876f24c5f97",
+  "86d2b1902b5ae071"
  ],
  "@SoloMERVAL": [
   "71f073e14dba27ee",
