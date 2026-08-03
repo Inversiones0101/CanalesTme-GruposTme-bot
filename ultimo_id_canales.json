@@ -1,6 +1,5 @@
 {
  "@gruposbs": [
-  "f8b0960577054848",
   "fbefad00af3ef868",
   "8652bb33dcb653c6",
   "50701d47c6a43969",
@@ -29,7 +28,8 @@
   "ab125e4181798d12",
   "5fa467699a5ff067",
   "4e1c3adb09e963dc",
-  "db6a9bad6a6edc94"
+  "db6a9bad6a6edc94",
+  "3fb7f231d9b1f0e6"
  ],
  "@ravabursatil": [
   "19d2479f5ae14937",
@@ -80,7 +80,6 @@
   "b10c1b81e6443760"
  ],
  "@marketbostonam": [
-  "e1b49ce6f5f379b5",
   "2fb6f3ad86ec5077",
   "0df223b14941ec7e",
   "457ceb0ea4030368",
@@ -109,7 +108,8 @@
   "899eb97b8836ee81",
   "0efa71b467a34590",
   "027321d9b2db8bc2",
-  "d5ccedd7b30bcc17"
+  "d5ccedd7b30bcc17",
+  "139d6c58dfc033ac"
  ],
  "@canalareadeinversores": [
   "daa1309d07dae5ab",
@@ -256,6 +256,7 @@
   "1f44f6147d0d35b3",
   "1e6b82cd5abb57cd",
   "ee6ae2d99509db05",
-  "5d423c3831f7d8fb"
+  "5d423c3831f7d8fb",
+  "23793246afa51986"
  ]
 }
