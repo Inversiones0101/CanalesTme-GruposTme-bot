@@ -1,8 +1,5 @@
 {
  "@gruposbs": [
-  "2560936612411f6f",
-  "4110f20f9ad3acfb",
-  "9d88a7ddc90827b0",
   "d4eda1f93da2fd24",
   "b7cf5f7edd44cbcd",
   "a493ca8ecda51e17",
@@ -29,7 +26,10 @@
   "4465d44a58256d2b",
   "7f282467d268f16e",
   "5b5a0992b2b80bbe",
-  "07750672e3dcd4f8"
+  "07750672e3dcd4f8",
+  "a14d2e5a96dc30ec",
+  "0166239ac093d7eb",
+  "6791698c34380d02"
  ],
  "@ravabursatil": [
   "19d2479f5ae14937",
@@ -81,7 +81,6 @@
   "337f317fe352047f"
  ],
  "@marketbostonam": [
-  "f92fa9c39dde299d",
   "32f6bb578987a9fd",
   "5347d2ebb3d60c40",
   "5b1b9a9e83205b3e",
@@ -110,11 +109,10 @@
   "62c20255dd79c26c",
   "f513c28e30ff9158",
   "68f411a11bec0b76",
-  "3b1962d5b9e09404"
+  "3b1962d5b9e09404",
+  "b912f9d7f68a9461"
  ],
  "@canalareadeinversores": [
-  "aa43c694d4c48a84",
-  "c603ddcb867cb300",
   "73752c9084b6af61",
   "1b22ecee8bf8c74c",
   "ee8d2be456bfb714",
@@ -142,7 +140,9 @@
   "382d931765654b4a",
   "5b7c690c8daf7dac",
   "1400278e03d1cbf1",
-  "57e8346563c37659"
+  "57e8346563c37659",
+  "20c5dc7213dd68b2",
+  "56f531de1556cc78"
  ],
  "@SoloBONOS": [
   "7b02f93eff44d559",
