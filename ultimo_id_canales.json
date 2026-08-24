@@ -147,7 +147,6 @@
   "c8b93512fc21f885"
  ],
  "@SoloBONOS": [
-  "b14d0e81bf0730a6",
   "a63325697c0a4212",
   "01412d29c5ea05da",
   "e825cd5ab68891a2",
@@ -176,7 +175,8 @@
   "04fb496a2c6db8ee",
   "e89e1983d186ae60",
   "cfe25aeeb47cab74",
-  "f1762f1aebd4f81f"
+  "f1762f1aebd4f81f",
+  "28e01802b1676f1f"
  ],
  "@PortfolioPersonalInversiones": [
   "006241607ade84b5",
@@ -238,7 +238,6 @@
   "e3881a35576bbc6d"
  ],
  "@ambitoArg": [
-  "d64c889bfa175713",
   "f3d70585d2bc6071",
   "e24f368d7e5fba1a",
   "ab8f0135bc6bbd78",
@@ -267,6 +266,7 @@
   "5c32fe0348bbd765",
   "f64cc513cf179d25",
   "76d15e1d25d2d23b",
-  "2a1c5b1d832162e3"
+  "2a1c5b1d832162e3",
+  "0eeb1d8d7ddd1b9d"
  ]
 }
