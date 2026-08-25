@@ -147,7 +147,6 @@
   "c8b93512fc21f885"
  ],
  "@SoloBONOS": [
-  "43359c33d75d557f",
   "b2703b8625941ac7",
   "8dd9819fe9268b87",
   "69114d20b44bc0fa",
@@ -176,10 +175,10 @@
   "240a6cb45e853c6a",
   "fcfeca96ef33ef8c",
   "dcc742389aff5855",
-  "4192648c4dcb36a9"
+  "4192648c4dcb36a9",
+  "e0db14e04c2fc6e0"
  ],
  "@PortfolioPersonalInversiones": [
-  "667664346dd1fea8",
   "3112fd9781199502",
   "b3c8d90c19f2b375",
   "fef3649ec95a5c2b",
@@ -208,7 +207,8 @@
   "3621375e1956a58c",
   "2db8a25b300dbc7d",
   "1b891151e1fc820d",
-  "c59b0342b3a5fb34"
+  "c59b0342b3a5fb34",
+  "a723348a133a05a5"
  ],
  "@iolinvertironline": [
   "bc3183d6be9e39bd",
@@ -238,7 +238,6 @@
   "e3881a35576bbc6d"
  ],
  "@ambitoArg": [
-  "e24f368d7e5fba1a",
   "ab8f0135bc6bbd78",
   "c2778d258b74463a",
   "a534de9d95ce7217",
@@ -267,6 +266,7 @@
   "76d15e1d25d2d23b",
   "2a1c5b1d832162e3",
   "0eeb1d8d7ddd1b9d",
-  "d7db9fb38692834f"
+  "d7db9fb38692834f",
+  "b7bf5b05429ac37c"
  ]
 }
